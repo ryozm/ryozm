@@ -33,5 +33,3 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryozm&layout=compact)
-
-![ryozm's github stats](https://github-readme-stats.vercel.app/api?username=ryozm&show_icons=true&theme=dracula)
