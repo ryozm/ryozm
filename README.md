@@ -2,7 +2,7 @@
 
 💻 A Front-end Development
 
-[My website](https://ryozm.top)
+[My website](https://ryozm-homepage.vercel.app/)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
