@@ -6,7 +6,11 @@
 
 [My website](https://ryozm-homepage.vercel.app/)
 
-## 𝗠𝘆 Skills
+## Contact me
+
+  [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:ryozming@gmail.com)
+
+## 𝗠𝘆 skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vue,nextjs,less,sass,tailwind,docker,webpack,vite,git,androidstudio,apple,d3,idea,java,kotlin,kubernetes,md,mysql,nginx,postgres,threejs&perline=5)](https://skillicons.dev)
 
 ## 𝗦𝘁𝗮𝘁𝘀
